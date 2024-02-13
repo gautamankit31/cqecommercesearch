@@ -1,0 +1,22 @@
+[
+    {
+      "Title": "T-Shirt",
+      "Category": "cloths",
+      "Price": 200
+    },
+    {
+      "Title": "Jeans",
+      "Category": "cloths",
+      "Price": 500
+    },
+    {
+      "Title": "Dress",
+      "Category": "cloths",
+      "Price": 800
+    },
+    {
+      "Title": "Watch",
+      "Category": "accessories",
+      "Price": 1000
+    }
+  ]
